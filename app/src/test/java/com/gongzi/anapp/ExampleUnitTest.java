@@ -1,4 +1,4 @@
-package com.gongzi.myapp;
+package com.gongzi.anapp;
 
 import org.junit.Test;
 
